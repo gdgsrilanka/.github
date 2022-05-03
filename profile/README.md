@@ -10,3 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Follow Us On:
+- [Facebook](https://www.facebook.com/GDGSriLanka/)
+- [Instagram](https://www.instagram.com/gdgsrilanka/)
+- [LinkedIn](https://lk.linkedin.com/company/gdglk)
+- [Twitter](https://mobile.twitter.com/gdglk)
